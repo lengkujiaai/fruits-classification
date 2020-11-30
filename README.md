@@ -29,7 +29,7 @@ git clone https://github.com/--------.git
 
 你可以在fruit-dataset文件夹中发现分类的图片；你可以用这个数据集，也可以用网络上其他的数据集或者自己制作的数据集。我后面写一个文件教你制作自己的数据集。
 
-本数据集中有如下类：
+# 本数据集中有如下类：
 Apple/
 Beetroot/
 Dates/
@@ -37,7 +37,7 @@ Mango/
 Orange/
 Pomegranate/
 
-制作你自己的数据集
+# 制作你自己的数据集
 
 使用tensorflow再次训练自己的模型：
 Python3 retrain/retrain.py –image_dir fruits-dataset/
@@ -56,13 +56,13 @@ mango 0.0014653547
 
 准确识别出图片是苹果。现在你可以试试其他的图片，来自test-images文件夹或网络的图片或其他位置的图片。
 
-进一步提升：
+# 进一步提升：
 为了降低推理的时间，可以用TensorRT来优化一下。
 
 再训练脚本默认使用的是Inception_v3，也可以用更轻量级的模型结构来提升在jetson nano上推理的速度。
 
 
-另：
+# 另：
 
 1、2020-11-12，现供职于北京中电科卫星导航系统有限公司，本部门为研发中心。
 
