@@ -31,10 +31,15 @@ git clone https://github.com/--------.git
 
 # 本数据集中有如下类：
 Apple/
+
 Beetroot/
+
 Dates/
+
 Mango/
+
 Orange/
+
 Pomegranate/
 
 # 制作你自己的数据集
