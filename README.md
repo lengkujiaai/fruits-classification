@@ -91,4 +91,4 @@ mango 0.0014653547
 
 技术支持：
 
-![image](https://github.com/lengkujiaai/wearing_mask_or_not_jetsonNano/blob/main/images/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81.png)
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/zhangzong_weixin.png)
