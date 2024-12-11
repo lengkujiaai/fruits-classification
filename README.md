@@ -78,17 +78,3 @@ mango 0.0014653547
 再训练脚本默认使用的是Inception_v3，也可以用更轻量级的模型结构来提升在jetson nano上推理的速度。
 
 
-# 另：
-
-1、2020-11-12，本部门为研发中心。
-
-2、公司在淘宝销售nvidia jetson 系列的产品，包括jetson nano，     TX1,     TX2,    AGX XAVIER,        XAVIER NX产品
-
-3、我们属于提供技术支持的，本项目就是一老师要求的功能。
-
-    
-后打开淘宝即可
-
-技术支持：
-
-![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/zhangzong_weixin.png)
